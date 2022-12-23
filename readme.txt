@@ -1,7 +1,7 @@
 === Custom Post Count At A Glance ===
 Contributors: onemoreprince
 Tags: custom post count, display post count in the dashboard, CPT count in at a glance, show count of custom posts in WordPress dashboard 
-Tested up to: 6.0
+Tested up to: 6.1
 Stable tag: 1.0
 License: GPLv2 or later
 Display the count of custom posts in the WordPress dashboard in the 'At a glance' widget, like posts, pages and comment count.
